@@ -174,7 +174,7 @@ function Weather() {
                 <div>F</div>
               </div>
               <a
-                href="https://github.com/sinansarikaya/react-weather-app"
+                href="https://github.com/goldenprovider/react-weather-tutorial"
                 target="_blank"
                 className={`logo-github ${theme}`}
               >
